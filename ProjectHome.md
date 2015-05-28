@@ -1,0 +1,1 @@
+8-puzzle is a classic game problem of artificial intelligence. this implementation offers its solution by some search algorithms.
